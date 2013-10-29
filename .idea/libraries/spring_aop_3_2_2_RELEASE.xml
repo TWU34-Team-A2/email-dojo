@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="spring-aop-3.2.2.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-aop-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-beans-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-context-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-context-support-3.1.0.RELEASE-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-core-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-expression-3.1.0.RELEASE-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-jdbc-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-orm-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-security-acl-3.1.3.RELEASE-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-security-config-3.1.3.RELEASE-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-security-core-3.1.3.RELEASE-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-security-taglibs-3.1.3.RELEASE-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-security-web-3.1.3.RELEASE-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-tx-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-web-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-webmvc-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../trunk/lib/main/spring-webmvc-portlet-3.2.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
